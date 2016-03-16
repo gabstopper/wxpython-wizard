@@ -8,3 +8,5 @@ This is a basic wizard interface with several sample screens. It is designed as 
 
 `PanelTracker.py` is a linked list implementation to track the current, previous and next panels
 
+To build, run `python setup.py py2app` (mac)
+
