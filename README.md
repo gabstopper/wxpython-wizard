@@ -3,8 +3,8 @@
 This is a basic wizard interface with several sample screens. It is designed as a publisher/subscriber MVC program. 
 
 #####Platforms
-Mac OS X El Capitan
-Windows 2008 Server
+* Mac OS X El Capitan
+* Windows 2008 Server
 
 #####Files
 
